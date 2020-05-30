@@ -17,11 +17,6 @@ Table of contents:
 7. [SLA, Monitoring & Alerting](https://github.com/ananthdurai/airflow-training/tree/master/7_airflow_sla_and_alerting)
 8. [Code examples](https://github.com/ananthdurai/airflow-training/tree/master/dags)
 
-## Prerequisites
-
-Participants should have a technology background, basic programming skills in Python and be open to sharing their thoughts and questions.
-
-Participants need to bring their laptops. The examples tested on mac & ununtu machines. Participants can use any hosted airflow solutions such as [Google cloud composer](https://cloud.google.com/composer/) or [Astronomer](https://www.astronomer.io/blog/airflow-at-astronomer/)
 
 ## Installation
 
@@ -39,8 +34,6 @@ Interested in contributing? Improving documentation? Adding more example? Check 
 ## License
 As stated in the [License file](https://github.com/ananthdurai/airflow-training/blob/master/LICENSE) all lecture slides are provided under Creative Commons BY-NC 4.0. The exercise code is released under an MIT license.
 
-Author:
- - [Ananth Packkildurai](https://github.com/ananthdurai/airflow-training/blob/master/author.md)
 
 ## Credit
 - [Airflow documentation](https://airflow.apache.org/)
