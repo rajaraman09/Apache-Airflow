@@ -60,7 +60,7 @@ pbr==3.0.1
 pre-commit==0.14.1
 protobuf==3.3.0
 pycparser==2.17
-Pygments==2.2.0
+Pygments==2.7.4
 PyHive==0.3.0
 pykerberos==1.1.14
 pyOpenSSL==17.5.0
